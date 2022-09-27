@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JekaterinaShashkina
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Go and JavaScript
-- 💞️ I’m looking to collaborate on new prohect in KoodJohvi
+- 💞️ I’m looking to collaborate on new project in KoodJohvi
 - 📫 How to reach me ... Please write me in DM
 
 <!---
